@@ -3,11 +3,9 @@
 
     <Header/>
 
-    <q-page-container>
-      <q-page>
-
-        <RouterView/>
-
+    <q-page-container >
+      <q-page >
+        <RouterView style="height: 88.9vh"/>
       </q-page>
     </q-page-container>
 
